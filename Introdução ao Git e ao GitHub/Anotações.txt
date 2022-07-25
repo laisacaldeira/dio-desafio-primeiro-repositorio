@@ -1,0 +1,20 @@
+Link para download https://git-scm.com/downloads
+O Git é um sistema de controle de versão distribuído . Isso significa
+que se você está trabalhando em um ambiente de equipe, com outros
+desenvolvedores e programadores, todo o código que você e seus colegas
+escrevem será compartilhado entre todos vocês (isso significa que
+todos saberão quando uma mudança for feita no código). Trabalhando em
+uma empresa, esse é um ótimo recurso, pois permite que tudo aconteça
+de maneira muito mais rápida e fluida.
+
+O Git é usado principalmente para rastrear alterações no código fonte.
+Como eu mencionei um pouco mais cedo, neste artigo do Git ou Github,
+ele é usado principalmente por empresas que trabalham com
+desenvolvimento de software. O Git ajuda os programadores a coordenar
+suas ações e fluxos de trabalho.
+O GitHub é um serviço de hospedagem. Ele é usado para rastrear
+alterações de código fonte. Embora ele forneça todas as funções do
+Git, o GitHub também adiciona algumas outras funcionalidades.
+Em outras palavras, o Git é uma ferramenta que é usada para facilitar
+a vida de um programador, enquanto o GitHub é um serviço que é usado
+para hospedar projetos Git.
